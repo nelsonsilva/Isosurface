@@ -1,0 +1,7 @@
+name:  Isosurface
+description:  A sample application
+author: Nelson Silva <nelson.silva@inevo.pt>
+dependencies:
+  three:
+    git: https://github.com/threeDart/three.dart.git
+  stats: 0.0.1
